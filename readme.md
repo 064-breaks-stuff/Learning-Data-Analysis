@@ -1,0 +1,1 @@
+This repository follows my journey as I learn data analysis using numpy, pandas, matplotlib, scikitlearn, seaborn, etc from scratch (as an electronics and communications engineer) on my way to eventually mastering machine learning.
